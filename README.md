@@ -1,2 +1,2 @@
 # mining-pool
-a mining pool im creating using python and django among other modules
+a mining pool created using python and Django among other modules
